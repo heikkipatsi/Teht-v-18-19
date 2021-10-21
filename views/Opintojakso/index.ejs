@@ -6,6 +6,11 @@
     <title>Opintojakso</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 </head>
+<style>
+body {
+  background-color: lightgreen;
+}
+</style>
 <body class="container" style="margin-top: 50px;">
 
     <% if (messages.success) { %>
@@ -31,6 +36,12 @@
         
         <% if(data.length) { %>
         <table class="table">
+        <style>
+         div {
+         background-color: yellow;
+         }
+         </style>
+        
             <thead>
                 <tr>
                     <th scope="col">#</th>

@@ -1,11 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\bin",
     "\\lib",
+    "\\public",
+    "\\public\\stylesheets",
     "\\routes",
     "\\views",
     "\\views\\Opintojakso"
   ],
-  "SelectedNode": "\\routes\\Opintojakso.js",
+  "SelectedNode": "\\views\\Opintojakso\\index.ejs",
   "PreviewInSolutionExplorer": false
 }
